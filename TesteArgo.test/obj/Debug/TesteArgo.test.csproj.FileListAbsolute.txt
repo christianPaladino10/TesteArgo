@@ -1,0 +1,70 @@
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CopyComplete
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CopyComplete
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo.test\bin\Debug\TesteArgo.test.dll.config

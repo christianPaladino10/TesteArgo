@@ -1,0 +1,24 @@
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Christian\Downloads\Argo\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.xml

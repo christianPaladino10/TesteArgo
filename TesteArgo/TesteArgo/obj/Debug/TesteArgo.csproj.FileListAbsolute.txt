@@ -1,0 +1,7 @@
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
